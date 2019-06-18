@@ -1,4 +1,4 @@
-# ArtificialIntelligence
+# Artificial Intelligence
 Artificial Intelligence and Machine Learning Projects
 
 Contains Private projects..
