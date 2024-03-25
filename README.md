@@ -1,6 +1,6 @@
 # Artificial Intelligence
 Artificial Intelligence and Machine Learning Projects
-
+Copyright Georgia Tech
 Contains Private projects..
 Code is available for review on request.
 
